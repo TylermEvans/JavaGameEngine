@@ -1,0 +1,22 @@
+package shaders;
+
+public abstract class ShaderProgram {
+	
+	private int programID;
+	private int vertexShaderID;
+	private int fragmentShaderID;
+	
+	
+	private static int loadShader(String file, int type){
+		
+		StringBuilder shaderSource = new StringBuilder();
+		try{
+			
+		}catch(IOException e){
+			
+		}
+		
+		
+	}
+
+}

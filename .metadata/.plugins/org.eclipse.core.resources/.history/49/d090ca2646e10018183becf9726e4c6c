@@ -1,0 +1,21 @@
+package renderEngine;
+
+public class Loader {
+
+	public RawModel loadToVAO(float[] positions){
+		int vaoID = createVAO();
+		storeDataInAttribList(0, positions);''
+	}
+	
+	private int createVAO(){
+		
+	}
+	
+	private void storeDataInAttribList(int attribNumber, float[] data){
+		
+	}
+	
+	private void unbindVAO(){
+		
+	}
+}

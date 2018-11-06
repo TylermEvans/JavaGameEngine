@@ -1,0 +1,9 @@
+package renderEngine;
+
+public class Renderer {
+
+	public void prerender(){
+		GL11.glClearColor(1,0,0,1);
+	}
+	
+}

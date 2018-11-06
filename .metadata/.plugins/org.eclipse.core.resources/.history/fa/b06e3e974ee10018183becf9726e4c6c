@@ -1,0 +1,9 @@
+package shaders;
+import ShaderProgram;
+public class StaticShader extends ShaderProgram{
+	public StaticShader(){
+		
+		
+		
+	}
+}

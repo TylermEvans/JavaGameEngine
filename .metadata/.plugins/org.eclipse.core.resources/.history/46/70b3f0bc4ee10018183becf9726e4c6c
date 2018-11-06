@@ -1,0 +1,13 @@
+package shaders;
+
+public class StaticShader extends ShaderProgram{
+	
+	
+	public StaticShader(){
+		super(vertexFile, fragmentFile);
+	}
+	
+	protected void bindAttributes(){
+		
+	}
+}

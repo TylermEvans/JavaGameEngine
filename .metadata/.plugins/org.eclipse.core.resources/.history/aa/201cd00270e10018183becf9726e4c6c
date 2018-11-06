@@ -1,0 +1,7 @@
+package toolbox;
+
+public class Math {
+	public static Matrix4f createTransformationMatrix(Vector3f translation, float rx, float ry, float rz, float scale){
+		
+	}
+}
